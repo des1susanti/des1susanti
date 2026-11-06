@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Hi there, I'm Desi Susanti" />
+<img src="banner.svg" width="100%" alt="Hi there, I'm Desi Susanti" />
 
-<img src="assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
-<img src="assets/about.svg" width="100%" alt="About me" />
+<img src="about.svg" width="100%" alt="About me" />
 
-<img src="assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
-<img src="assets/tools-orbit.svg" width="100%" alt="Tools I build with" />
+<img src="tools-orbit.svg" width="100%" alt="Tools I build with" />
 
 <br/>
 
@@ -30,11 +30,11 @@
 ![Three.js](https://img.shields.io/badge/Three.js-1E1B22?style=for-the-badge&logo=threedotjs&logoColor=9FC3C0)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-1E1B22?style=for-the-badge&logo=html5&logoColor=9FC3C0)
 
-<img src="assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
-<img src="assets/id-card.svg" width="100%" alt="Profile at a glance" />
+<img src="id-card.svg" width="100%" alt="Profile at a glance" />
 
-<img src="assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
 ### ✦ Featured builds
 
@@ -51,7 +51,7 @@
 
 <div align="center">
 
-<img src="assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
 ### ✦ Contribution landscape
 
@@ -66,9 +66,9 @@
 
 <img src="https://streak-stats.demolab.com?user=des1susanti&hide_border=true&background=16141A&ring=D9BE94&fire=D9BE94&currStreakLabel=D9BE94&sideLabels=E8DCCB&currStreakNum=F1E3CC&sideNums=F1E3CC&dates=BFAE98&stroke=3B3441" width="70%" />
 
-<img src="assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
-<img src="assets/contact.svg" width="100%" alt="Let's build something together" />
+<img src="contact.svg" width="100%" alt="Let's build something together" />
 
 <br/>
 
