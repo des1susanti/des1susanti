@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 400" width="900" height="529" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect x="1" y="1" width="678" height="398" rx="14" fill="#16141A" stroke="#3B3441" stroke-width="1.2"/>
+  <ellipse cx="480" cy="386" rx="78" ry="9" fill="#0E0D11"/>
+
+  <!-- whiteboard -->
+  <rect x="28" y="34" width="392" height="236" rx="6" fill="#3B3441"/>
+  <rect x="38" y="44" width="372" height="216" rx="3" fill="#F4EBDD"/>
+  <rect x="60" y="262" width="320" height="6" rx="2" fill="#2A252E"/>
+  <rect x="250" y="256" width="22" height="6" rx="2" fill="#C9A46A"/>
+  <g fill="none" stroke="#5A4C3E" stroke-width="1.4" stroke-dasharray="120" stroke-dashoffset="120">
+    <path d="M90 100 L185 90 M90 100 L185 150 M90 100 L185 210 M90 150 L185 90 M90 150 L185 150 M90 150 L185 210 M90 200 L185 90 M90 200 L185 150 M90 200 L185 210 M185 90 L280 125 M185 150 L280 125 M185 210 L280 125 M185 90 L280 185 M185 150 L280 185 M185 210 L280 185">
+      <animate attributeName="stroke-dashoffset" values="120;0;0;120" keyTimes="0;0.35;0.9;1" dur="8s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g stroke="#2E2830" stroke-width="1.5">
+    <circle cx="90" cy="100" r="10" fill="#E6CFA6"/><circle cx="90" cy="150" r="10" fill="#E6CFA6"/><circle cx="90" cy="200" r="10" fill="#E6CFA6"/>
+    <circle cx="185" cy="90" r="10" fill="#F4EBDD"><animate attributeName="fill" values="#F4EBDD;#F4EBDD;#D9BE94;#F4EBDD" keyTimes="0;0.4;0.55;1" dur="8s" repeatCount="indefinite"/></circle>
+    <circle cx="185" cy="150" r="10" fill="#F4EBDD"><animate attributeName="fill" values="#F4EBDD;#F4EBDD;#D9BE94;#F4EBDD" keyTimes="0;0.45;0.6;1" dur="8s" repeatCount="indefinite"/></circle>
+    <circle cx="185" cy="210" r="10" fill="#F4EBDD"><animate attributeName="fill" values="#F4EBDD;#F4EBDD;#D9BE94;#F4EBDD" keyTimes="0;0.5;0.65;1" dur="8s" repeatCount="indefinite"/></circle>
+    <circle cx="280" cy="125" r="10" fill="#F4EBDD"><animate attributeName="fill" values="#F4EBDD;#F4EBDD;#C9A46A;#F4EBDD" keyTimes="0;0.65;0.8;1" dur="8s" repeatCount="indefinite"/></circle>
+    <circle cx="280" cy="185" r="10" fill="#F4EBDD"><animate attributeName="fill" values="#F4EBDD;#F4EBDD;#C9A46A;#F4EBDD" keyTimes="0;0.7;0.85;1" dur="8s" repeatCount="indefinite"/></circle>
+  </g>
+  <g font-family="Georgia, 'Times New Roman', serif" font-style="italic">
+    <text x="60" y="72" fill="#5A4C3E" font-size="14">ŷ = f(Wx + b)</text>
+    <text x="62" y="240" fill="#8C6B4F" font-size="11">input</text>
+    <text x="164" y="240" fill="#8C6B4F" font-size="11">hidden</text>
+    <text x="262" y="232" fill="#8C6B4F" font-size="11">output</text>
+  </g>
+
+  <!-- legs & shoes -->
+  <rect x="448" y="292" width="28" height="88" fill="#1C1C20"/>
+  <rect x="482" y="292" width="28" height="88" fill="#1C1C20"/>
+  <line x1="462" y1="300" x2="462" y2="378" stroke="#2A2A30"/><line x1="496" y1="300" x2="496" y2="378" stroke="#2A2A30"/>
+  <ellipse cx="458" cy="383" rx="16" ry="6" fill="#0A0A0C"/><ellipse cx="500" cy="383" rx="16" ry="6" fill="#0A0A0C"/>
+  <!-- right arm down -->
+  <path d="M510 168 C520 170 528 176 530 186 L538 278 L524 281 L516 200 Z" fill="#141416" stroke="#6A6070" stroke-width="1"/>
+  <path d="M523 278 L538 276" stroke="#E8E2DA" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="531" cy="289" rx="8" ry="9" fill="#E3B590"/>
+  <!-- blazer -->
+  <path d="M444 168 C452 159 466 156 480 156 C494 156 508 159 516 168 L524 298 L436 298 Z" fill="#141416" stroke="#6A6070" stroke-width="1"/>
+  <path d="M462 162 L472 252 M498 162 L488 252" stroke="#4A4452" stroke-width="1.2" fill="none"/>
+  <circle cx="480" cy="270" r="2.2" fill="#3A3A44"/>
+  <!-- hijab drape -->
+  <path d="M452 164 C464 174 496 174 508 164 L504 204 C498 228 488 242 474 254 C476 232 470 216 448 200 Z" fill="#CDBBAE"/>
+  <path d="M504 204 C498 228 488 242 474 254 C482 236 490 220 494 196 Z" fill="#BCA898"/>
+  <!-- head -->
+  <g transform="translate(48 -20) scale(0.8)">
+    <path d="M490 150 C486 82 594 82 590 150 L596 208 C600 236 588 250 572 250 L510 250 L498 236 C488 222 488 190 490 150 Z" fill="#CDBBAE"/>
+    <path d="M580 160 C586 190 586 214 578 236" stroke="#B9A595" stroke-width="1.4" fill="none"/>
+    <path d="M500 150 C498 104 582 104 580 150 C580 186 562 206 540 206 C518 206 500 186 500 150 Z" fill="#B49F8C"/>
+    <path d="M506 152 C506 116 574 116 574 152 C574 184 558 200 540 200 C522 200 506 184 506 152 Z" fill="#E3B590"/>
+    <path d="M506 132 C514 114 566 114 574 132 C560 122 520 122 506 132 Z" fill="#A9927C"/>
+    <path d="M516 136 Q524 132 532 136 M548 136 Q556 132 564 136" stroke="#5A4034" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+    <ellipse cx="522" cy="148" rx="2.6" ry="2.8" fill="#2B211C"><animate attributeName="ry" values="2.8;2.8;0.3;2.8" keyTimes="0;0.92;0.96;1" dur="4s" repeatCount="indefinite"/></ellipse>
+    <ellipse cx="554" cy="148" rx="2.6" ry="2.8" fill="#2B211C"><animate attributeName="ry" values="2.8;2.8;0.3;2.8" keyTimes="0;0.92;0.96;1" dur="4s" repeatCount="indefinite"/></ellipse>
+    <path d="M511 141 C511 137 537 137 537 141 L536 154 C535 160 513 160 512 154 Z M543 141 C543 137 569 137 569 141 L568 154 C567 160 545 160 544 154 Z" fill="#F4C9C0" fill-opacity="0.25" stroke="#C9A46A" stroke-width="1.8"/>
+    <path d="M537 144 Q540 141 543 144" stroke="#C9A46A" stroke-width="1.5" fill="none"/>
+    <path d="M538 158 Q540 166 542 168" stroke="#C99877" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+    <path d="M530 177 Q540 186 550 177" stroke="#A9645A" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+    <circle cx="516" cy="168" r="5" fill="#E99A8A" opacity="0.3"/><circle cx="564" cy="168" r="5" fill="#E99A8A" opacity="0.3"/>
+  </g>
+  <!-- writing arm -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" values="0 448 172;-6 448 172;2 448 172;0 448 172" dur="2.4s" repeatCount="indefinite"/>
+    <path d="M452 162 C440 150 424 136 414 126 L402 138 C414 152 428 170 440 186 Z" fill="#141416" stroke="#6A6070" stroke-width="1"/>
+    <path d="M404 124 L416 136" stroke="#E8E2DA" stroke-width="4" stroke-linecap="round"/>
+    <ellipse cx="402" cy="122" rx="8" ry="9" fill="#E3B590"/>
+    <rect x="390" y="108" width="6" height="16" rx="2" fill="#C9A46A" transform="rotate(-35 393 116)"/>
+  </g>
+
+  <!-- caption -->
+  <g letter-spacing="2" font-size="11" fill="#BFAE98">
+    <text x="560" y="120">IN THE</text>
+    <text x="560" y="136">CLASSROOM</text>
+  </g>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="17">
+    <text x="560" y="170" fill="#F1E3CC">Turning</text>
+    <text x="560" y="192" fill="#F1E3CC">ideas into</text>
+    <text x="560" y="214" fill="#F1E3CC">models,</text>
+    <text x="560" y="236" fill="#D9BE94" font-style="italic">one layer</text>
+    <text x="560" y="258" fill="#D9BE94" font-style="italic">at a time.</text>
+  </g>
+</svg>
