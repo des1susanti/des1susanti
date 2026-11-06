@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect x="1" y="1" width="898" height="298" rx="18" fill="#16141A" stroke="#3B3441" stroke-width="1.5"/>
+
+  <!-- left: laptop screen with training curve -->
+  <g transform="translate(40 40)">
+    <rect x="0" y="0" width="300" height="190" rx="10" fill="#C9CCD2"/>
+    <rect x="8" y="8" width="284" height="174" rx="5" fill="#0F0E12"/>
+    <circle cx="20" cy="20" r="3" fill="#E07A6A"/><circle cx="30" cy="20" r="3" fill="#E3C06A"/><circle cx="40" cy="20" r="3" fill="#7FB37A"/>
+    <text x="150" y="23" text-anchor="middle" fill="#8C7F70" font-size="11" font-family="Consolas, 'Courier New', monospace">model.fit(X_train, y_train)</text>
+    <g stroke="#3B3441" stroke-width="0.6">
+      <line x1="34" y1="40" x2="34" y2="160"/><line x1="34" y1="160" x2="276" y2="160"/>
+      <line x1="34" y1="70" x2="276" y2="70" stroke-dasharray="2 4"/><line x1="34" y1="100" x2="276" y2="100" stroke-dasharray="2 4"/><line x1="34" y1="130" x2="276" y2="130" stroke-dasharray="2 4"/>
+    </g>
+    <text x="28" y="48" text-anchor="end" fill="#8C7F70" font-size="10">loss</text>
+    <text x="276" y="174" text-anchor="end" fill="#8C7F70" font-size="10">epoch</text>
+    <path d="M36 48 C70 60 90 110 130 126 C170 140 210 148 274 152" fill="none" stroke="#D9BE94" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="300" stroke-dashoffset="300">
+      <animate attributeName="stroke-dashoffset" values="300;0;0;300" keyTimes="0;0.55;0.9;1" dur="6s" repeatCount="indefinite"/>
+    </path>
+    <path d="M36 60 C70 72 95 112 130 122 C170 132 210 136 274 138" fill="none" stroke="#9C8AB4" stroke-width="1.6" stroke-dasharray="300" stroke-dashoffset="300">
+      <animate attributeName="stroke-dashoffset" values="300;0;0;300" keyTimes="0;0.55;0.9;1" dur="6s" repeatCount="indefinite"/>
+    </path>
+    <g font-size="10">
+      <rect x="196" y="40" width="8" height="3" fill="#D9BE94"/><text x="208" y="45" fill="#BFAE98">train</text>
+      <rect x="236" y="40" width="8" height="3" fill="#9C8AB4"/><text x="248" y="45" fill="#BFAE98">val</text>
+    </g>
+    <path d="M-10 196 L310 196 L300 206 L0 206 Z" fill="#B4B7BE"/>
+  </g>
+
+  <!-- right: about text -->
+  <g transform="translate(380 0)">
+    <text x="0" y="62" fill="#BFAE98" font-size="13" letter-spacing="3">ABOUT ME</text>
+    <text x="0" y="100" fill="#F1E3CC" font-size="27" font-family="Georgia, 'Times New Roman', serif">Teaching machines to see,</text>
+    <text x="0" y="134" fill="#F1E3CC" font-size="27" font-family="Georgia, 'Times New Roman', serif">understand, and <tspan fill="#D9BE94" font-style="italic">predict.</tspan></text>
+
+    <g font-size="15" fill="#E8DCCB">
+      <!-- neuron icon -->
+      <g transform="translate(10 172)" stroke="#D9BE94" stroke-width="1.5" fill="none">
+        <circle cx="0" cy="0" r="4"/><path d="M4 0 L11 -5 M4 0 L11 5 M-4 0 L-11 -5 M-4 0 L-11 5"/>
+      </g>
+      <text x="32" y="177">Research in Artificial Neural Networks &amp; Support Vector Regression</text>
+      <!-- eye icon -->
+      <g transform="translate(10 202)" stroke="#D9BE94" stroke-width="1.5" fill="none">
+        <path d="M-11 0 Q0 -9 11 0 Q0 9 -11 0 Z"/><circle cx="0" cy="0" r="3"/>
+      </g>
+      <text x="32" y="207">Computer vision: face, hand gestures &amp; robotics</text>
+      <!-- phone icon -->
+      <g transform="translate(10 232)" stroke="#D9BE94" stroke-width="1.5" fill="none">
+        <rect x="-6" y="-10" width="12" height="20" rx="2"/><line x1="-2" y1="6" x2="2" y2="6"/>
+      </g>
+      <text x="32" y="237">Building Android &amp; web apps with Flutter, Java &amp; Laravel</text>
+      <!-- sprout icon -->
+      <g transform="translate(10 262)" stroke="#D9BE94" stroke-width="1.5" fill="none">
+        <path d="M0 10 L0 -2 M0 2 C-8 2 -10 -6 -10 -8 C-4 -8 0 -4 0 2 M0 -1 C6 -1 9 -7 9 -10 C3 -10 0 -6 0 -1"/>
+      </g>
+      <text x="32" y="267">Currently diving deeper into deep learning</text>
+    </g>
+  </g>
+</svg>

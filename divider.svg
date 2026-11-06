@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 24" width="900" height="24">
+  <defs>
+    <clipPath id="line"><rect x="40" y="10" width="820" height="4" rx="2"/></clipPath>
+  </defs>
+  <rect x="40" y="11" width="820" height="2" rx="1" fill="#3B3441"/>
+  <g clip-path="url(#line)">
+    <rect x="-160" y="10" width="160" height="4" fill="#D9BE94" opacity="0.9">
+      <animate attributeName="x" values="-160;900" dur="3.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <g transform="translate(450 12) rotate(45)">
+    <rect x="-5" y="-5" width="10" height="10" fill="#16141A" stroke="#D9BE94" stroke-width="1.5"/>
+  </g>
+</svg>
