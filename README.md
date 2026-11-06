@@ -4,15 +4,9 @@
 
 <img src="divider.svg" width="100%" />
 
-<img src="7c23c2fcf55cb9e832050f16e6315ccd.gif" height="130" alt="" />
-
-
 <img src="about.svg" width="100%" alt="About me" />
 
 <img src="divider.svg" width="100%" />
-
-<img src="Akaza_Full_Body_(Anime).webp" height="130" alt="" />
-
 
 <img src="tools-orbit.svg" width="100%" alt="Tools I build with" />
 
@@ -38,15 +32,9 @@
 
 <img src="divider.svg" width="100%" />
 
-<img src="muichiro-caramelldansen.gif" height="130" alt="" />
-
-
-<img src="id-card.svg" width="100%" alt="Profile at a glance" />
+<img src="classroom.svg" width="100%" alt="In the classroom" />
 
 <img src="divider.svg" width="100%" />
-
-<img src="88572d3b3fdc759607987bf79822ee0b.gif" height="130" alt="" />
-
 
 ### ✦ Featured builds
 
@@ -65,8 +53,19 @@
 
 <img src="divider.svg" width="100%" />
 
-<img src="demon-slayer.gif" height="130" alt="" />
+### ✦ Research & publications
 
+</div>
+
+📄 **Prediction of Student Achievement Using Artificial Neural Network and Support Vector Regression at SMK Telkom Lampung**  
+*JURNAL INFOTEL* · ANN vs SVR on 550 student records with 26 features · [Read paper →](https://ejournal.ittelkom-pwt.ac.id/index.php/infotel/article/view/1163)
+
+🌿 **Expert System for Diagnosing Aglaonema Ornamental Plant Diseases Using the Certainty Factor Method**  
+*Undergraduate thesis (S1)* · rule-based diagnosis with certainty factor reasoning
+
+<div align="center">
+
+<img src="divider.svg" width="100%" />
 
 ### ✦ Contribution landscape
 
@@ -91,7 +90,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-16141A?style=for-the-badge&logo=linkedin&logoColor=D9BE94)](https://www.linkedin.com/in/desi-susanti-70a7b831a)
 [![TikTok](https://img.shields.io/badge/TikTok-16141A?style=for-the-badge&logo=tiktok&logoColor=D9BE94)](https://www.tiktok.com/@linxiao.ds)
 [![X](https://img.shields.io/badge/X-16141A?style=for-the-badge&logo=x&logoColor=D9BE94)](https://x.com/linxiao_ds)
-
-<sub>Animated fan art belongs to their respective artists · Demon Slayer © Koyoharu Gotoge / Shueisha, Aniplex, ufotable</sub>
 
 </div>
