@@ -38,16 +38,16 @@
 
 ### ✦ Featured builds
 
-</div>
+<a href="https://github.com/des1susanti/presensi-flutter"><img src="card-presensi.svg" width="49%" alt="presensi-flutter" /></a>
+<a href="https://github.com/des1susanti/robot-gestur"><img src="card-robot.svg" width="49%" alt="robot-gestur" /></a>
 
-| Project | What it is | Stack |
-|---|---|---|
-| [**presensi-flutter**](https://github.com/des1susanti/presensi-flutter) | Android attendance app with geofencing, fake-GPS detection & face verification | Flutter · Dart · Firebase |
-| [**robot-gestur**](https://github.com/des1susanti/robot-gestur) | Gesture-controlled marionette robot | Python · OpenCV · MediaPipe |
-| [**mitologi-nusantara**](https://github.com/des1susanti/mitologi-nusantara) | Hand-gesture webcam app featuring Indonesian mythological creatures in a 3D cube | Python · Computer vision |
-| [**etl-sap-icrm-supply-chain**](https://github.com/des1susanti/etl-sap-icrm-supply-chain) | Web-based ETL & data reconciliation for SAP and iCRM+ inventory sync | Laravel 11 · Python |
-| [**portofolio-v2**](https://github.com/des1susanti/portofolio-v2) | Interactive 3D portfolio — a little robot walking around a mini campus | Three.js · JavaScript |
-| [**life-design-quest**](https://github.com/des1susanti/life-design-quest) | Interactive career-design game inspired by *Designing Your Life* | HTML · JavaScript |
+<a href="https://github.com/des1susanti/mitologi-nusantara"><img src="card-mitologi.svg" width="49%" alt="mitologi-nusantara" /></a>
+<a href="https://github.com/des1susanti/etl-sap-icrm-supply-chain"><img src="card-etl.svg" width="49%" alt="etl-sap-icrm-supply-chain" /></a>
+
+<a href="https://github.com/des1susanti/portofolio-v2"><img src="card-portofolio.svg" width="49%" alt="portofolio-v2" /></a>
+<a href="https://github.com/des1susanti/life-design-quest"><img src="card-ldq.svg" width="49%" alt="life-design-quest" /></a>
+
+</div>
 
 <div align="center">
 
@@ -55,13 +55,11 @@
 
 ### ✦ Research & publications
 
+<a href="https://ejournal.ittelkom-pwt.ac.id/index.php/infotel/article/view/1163"><img src="research-ann-svr.svg" width="100%" alt="Prediction of Student Achievement Using ANN and SVR" /></a>
+
+<img src="research-aglaonema.svg" width="100%" alt="Expert System for Diagnosing Aglaonema Plant Diseases" />
+
 </div>
-
-📄 **Prediction of Student Achievement Using Artificial Neural Network and Support Vector Regression at SMK Telkom Lampung**  
-*JURNAL INFOTEL* · ANN vs SVR on 550 student records with 26 features · [Read paper →](https://ejournal.ittelkom-pwt.ac.id/index.php/infotel/article/view/1163)
-
-🌿 **Expert System for Diagnosing Aglaonema Ornamental Plant Diseases Using the Certainty Factor Method**  
-*Undergraduate thesis (S1)* · rule-based diagnosis with certainty factor reasoning
 
 <div align="center">
 
