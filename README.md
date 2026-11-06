@@ -4,14 +4,14 @@
 
 <img src="divider.svg" width="100%" />
 
-<img src="ds-1.gif" height="130" alt="" />
+<img src="7c23c2fcf55cb9e832050f16e6315ccd.gif" height="130" alt="" />
 
 
 <img src="about.svg" width="100%" alt="About me" />
 
 <img src="divider.svg" width="100%" />
 
-<img src="ds-2.webp" height="130" alt="" />
+<img src="Akaza_Full_Body_(Anime).webp" height="130" alt="" />
 
 
 <img src="tools-orbit.svg" width="100%" alt="Tools I build with" />
@@ -38,14 +38,14 @@
 
 <img src="divider.svg" width="100%" />
 
-<img src="ds-3.gif" height="130" alt="" />
+<img src="muichiro-caramelldansen.gif" height="130" alt="" />
 
 
 <img src="id-card.svg" width="100%" alt="Profile at a glance" />
 
 <img src="divider.svg" width="100%" />
 
-<img src="ds-4.gif" height="130" alt="" />
+<img src="88572d3b3fdc759607987bf79822ee0b.gif" height="130" alt="" />
 
 
 ### ✦ Featured builds
@@ -65,7 +65,7 @@
 
 <img src="divider.svg" width="100%" />
 
-<img src="ds-5.gif" height="130" alt="" />
+<img src="demon-slayer.gif" height="130" alt="" />
 
 
 ### ✦ Contribution landscape
