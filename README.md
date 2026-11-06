@@ -55,7 +55,7 @@
 
 ### ✦ Research & publications
 
-<a href="https://ejournal.ittelkom-pwt.ac.id/index.php/infotel/article/view/1163"><img src="research-ann-svr.svg" width="100%" alt="Prediction of Student Achievement Using ANN and SVR" /></a>
+<a href="https://ejournal.ittelkom-pwt.ac.id/index.php/infotel/article/view/1163"><img src="research-s2.svg" width="100%" alt="Prediction of Student Achievement Using ANN and SVR" /></a>
 
 <img src="research-aglaonema.svg" width="100%" alt="Expert System for Diagnosing Aglaonema Plant Diseases" />
 
