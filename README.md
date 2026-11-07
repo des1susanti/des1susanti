@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" width="100%" alt="Hi there, I'm Desi Susanti" />
+<img src="banner-v2.svg" width="100%" alt="Hi there, I'm Desi Susanti" />
 
 <img src="divider.svg" width="100%" />
 
