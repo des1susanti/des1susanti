@@ -2,8 +2,8 @@ name: Update profile graphics
 
 on:
   schedule:
-    # setiap hari pukul 00:15 WIB (17:15 UTC)
-    - cron: "15 17 * * *"
+    # setiap 6 jam
+    - cron: "15 */6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -30,10 +30,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Featured builds (repo yang terakhir di-push)
+        run: python3 .github/scripts/featured.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A profile-3d-contrib dist
+          git add -A profile-3d-contrib dist featured README.md
           git commit -m "Update profile graphics" || echo "Nothing to update"
           git push
