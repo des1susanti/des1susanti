@@ -1,0 +1,39 @@
+name: Featured builds
+
+# Mengikuti repo yang di-pin di profil.
+# GitHub tidak memberi sinyal saat pin diubah, jadi pin diperiksa setiap 30 menit.
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme
+  cancel-in-progress: false
+
+jobs:
+  featured:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Buat ulang kartu dari repo yang di-pin
+        run: python3 .github/scripts/featured.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Simpan hanya kalau ada perubahan
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A featured README.md
+          if git diff --cached --quiet; then
+            echo "Pin tidak berubah"
+          else
+            git commit -m "Update featured builds"
+            git pull --rebase
+            git push
+          fi
