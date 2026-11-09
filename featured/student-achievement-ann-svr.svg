@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 336 160" width="420" height="200" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+<rect x="1" y="1" width="334" height="158" rx="12" fill="#16141A" stroke="#3B3441"/>
+<rect x="16" y="16" width="64" height="64" rx="10" fill="#221E26"/>
+<g stroke="#8C7F70" stroke-width="0.8"><line x1="28" y1="72" x2="70" y2="72"/><line x1="28" y1="26" x2="28" y2="72"/></g><g fill="#8C7F70"><circle cx="34" cy="64" r="1.8"/><circle cx="40" cy="58" r="1.8"/><circle cx="46" cy="60" r="1.8"/><circle cx="52" cy="46" r="1.8"/><circle cx="58" cy="44" r="1.8"/><circle cx="64" cy="34" r="1.8"/></g><path d="M30 68 C42 60 52 46 68 30" fill="none" stroke="#D9BE94" stroke-width="2" stroke-dasharray="60" stroke-dashoffset="60"><animate attributeName="stroke-dashoffset" values="60;0;0;60" keyTimes="0;0.4;0.9;1" dur="5s" repeatCount="indefinite"/></path>
+<text x="96" y="40" fill="#F1E3CC" font-size="17" font-family="Georgia, 'Times New Roman', serif">student-achievement</text>
+<text x="96" y="60" fill="#BFAE98" font-size="11">Predicting student achievement with</text><text x="96" y="75" fill="#BFAE98" font-size="11">ANN &amp; SVR (JURNAL INFOTEL 2024)</text>
+<g font-size="10"><rect x="16" y="118" width="57" height="22" rx="11" fill="#2A252E" stroke="#D9BE94" stroke-width="0.8"/><text x="44" y="133" text-anchor="middle" fill="#D9BE94">Orange</text><rect x="79" y="118" width="39" height="22" rx="11" fill="#2A252E" stroke="#D9BE94" stroke-width="0.8"/><text x="98" y="133" text-anchor="middle" fill="#D9BE94">ANN</text><rect x="124" y="118" width="39" height="22" rx="11" fill="#1F2628" stroke="#9FC3C0" stroke-width="0.8"/><text x="144" y="133" text-anchor="middle" fill="#9FC3C0">SVR</text></g>
+<text x="320" y="140" text-anchor="end" fill="#D9BE94" font-size="11">View repo →</text>
+</svg>

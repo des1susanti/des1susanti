@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 336 160" width="420" height="200" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+<rect x="1" y="1" width="334" height="158" rx="12" fill="#16141A" stroke="#3B3441"/>
+<rect x="16" y="16" width="64" height="64" rx="10" fill="#221E26"/>
+<g fill="none" stroke="#9FC3C0" stroke-width="1.4"><ellipse cx="34" cy="34" rx="8" ry="3"/><path d="M26 34 L26 46 Q34 50 42 46 L42 34"/><ellipse cx="62" cy="58" rx="8" ry="3"/><path d="M54 58 L54 70 Q62 74 70 70 L70 58"/><path d="M42 42 C52 42 52 58 54 62" stroke-dasharray="3 3"/></g><circle r="2.5" fill="#E6CFA6"><animateMotion dur="2s" repeatCount="indefinite" path="M42 42 C52 42 52 58 54 62"/></circle>
+<text x="96" y="40" fill="#F1E3CC" font-size="17" font-family="Georgia, 'Times New Roman', serif">etl-sap-icrm</text>
+<text x="96" y="60" fill="#BFAE98" font-size="11">ETL &amp; data reconciliation for SAP and</text><text x="96" y="75" fill="#BFAE98" font-size="11">iCRM+ inventory</text>
+<g font-size="10"><rect x="16" y="118" width="82" height="22" rx="11" fill="#1F2628" stroke="#9FC3C0" stroke-width="0.8"/><text x="57" y="133" text-anchor="middle" fill="#9FC3C0">Laravel 11</text><rect x="104" y="118" width="57" height="22" rx="11" fill="#2A252E" stroke="#D9BE94" stroke-width="0.8"/><text x="132" y="133" text-anchor="middle" fill="#D9BE94">Python</text></g>
+<text x="320" y="140" text-anchor="end" fill="#D9BE94" font-size="11">View repo →</text>
+</svg>

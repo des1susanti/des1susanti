@@ -41,14 +41,14 @@
 <sub>Recently updated projects · refreshed automatically</sub>
 
 <!-- FEATURED:START -->
-<a href="https://github.com/des1susanti/presensi-flutter"><img src="card-presensi.svg" width="49%" alt="presensi-flutter" /></a>
-<a href="https://github.com/des1susanti/robot-gestur"><img src="card-robot.svg" width="49%" alt="robot-gestur" /></a>
+<a href="https://github.com/des1susanti/rice-pest-yolov8"><img src="featured/rice-pest-yolov8.svg" width="49%" alt="rice-pest-yolov8" /></a>
+<a href="https://github.com/des1susanti/student-achievement-ann-svr"><img src="featured/student-achievement-ann-svr.svg" width="49%" alt="student-achievement-ann-svr" /></a>
 
-<a href="https://github.com/des1susanti/mitologi-nusantara"><img src="card-mitologi.svg" width="49%" alt="mitologi-nusantara" /></a>
-<a href="https://github.com/des1susanti/etl-sap-icrm-supply-chain"><img src="card-etl.svg" width="49%" alt="etl-sap-icrm-supply-chain" /></a>
+<a href="https://github.com/des1susanti/portofolio-v2"><img src="featured/portofolio-v2.svg" width="49%" alt="portofolio-v2" /></a>
+<a href="https://github.com/des1susanti/life-design-quest"><img src="featured/life-design-quest.svg" width="49%" alt="life-design-quest" /></a>
 
-<a href="https://github.com/des1susanti/portofolio-v2"><img src="card-portofolio.svg" width="49%" alt="portofolio-v2" /></a>
-<a href="https://github.com/des1susanti/life-design-quest"><img src="card-ldq.svg" width="49%" alt="life-design-quest" /></a>
+<a href="https://github.com/des1susanti/etl-sap-icrm-supply-chain"><img src="featured/etl-sap-icrm-supply-chain.svg" width="49%" alt="etl-sap-icrm-supply-chain" /></a>
+<a href="https://github.com/des1susanti/ftth-self-reporting"><img src="featured/ftth-self-reporting.svg" width="49%" alt="ftth-self-reporting" /></a>
 <!-- FEATURED:END -->
 
 </div>
