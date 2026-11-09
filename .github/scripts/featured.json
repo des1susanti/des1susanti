@@ -3,11 +3,12 @@
   "presensi-flutter": { "desc": "Android attendance app with geofencing & face verification", "chips": ["Flutter", "Dart", "Firebase"] },
   "robot-gestur": { "desc": "Marionette robot controlled by hand gestures", "chips": ["Python", "OpenCV", "MediaPipe"] },
   "mitologi-nusantara": { "desc": "Indonesian mythical creatures in a gesture-controlled 3D cube", "chips": ["Python", "Computer vision"] },
-  "etl-sap-icrm-supply-chain": { "title": "etl-sap-icrm", "desc": "ETL & data reconciliation for SAP and iCRM+ inventory", "chips": ["Laravel 11", "Python"] },
+  "etl-sap-icrm-supply-chain": { "title": "etl-sap-icrm", "desc": "ETL & data reconciliation for SAP and iCRM+ inventory", "chips": ["Laravel 11", "MySQL"] },
   "ftth-self-reporting": { "desc": "Multi-role web app for reporting and resolving fiber-internet issues", "chips": ["Laravel 11", "MySQL", "Tailwind"] },
   "portofolio-v2": { "desc": "Interactive 3D portfolio with a robot walking a mini campus", "chips": ["Three.js", "JavaScript"] },
   "life-design-quest": { "desc": "Career-design game for students, inspired by Designing Your Life", "chips": ["HTML", "JavaScript"] },
   "student-achievement-ann-svr": { "title": "student-achievement", "desc": "Predicting student achievement with ANN & SVR (JURNAL INFOTEL 2024)", "chips": ["Orange", "ANN", "SVR"] },
   "simulator-mesin-3d": { "desc": "3D sports car you can explode, pinch and pull with hand gestures", "chips": ["Python", "OpenCV", "MediaPipe"] },
+  "rice-pest-yolov8": { "desc": "Detecting 14 rice pest species with YOLOv8n vs YOLOv8s", "chips": ["YOLOv8", "PyTorch", "Deep learning"] },
   "nebula-hands": { "desc": "3D particle system controlled by hand gestures via webcam", "chips": ["Python", "OpenCV", "MediaPipe"] }
 }
