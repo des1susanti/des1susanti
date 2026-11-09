@@ -5,6 +5,6 @@
 <text x="96" y="40" fill="#F1E3CC" font-size="17" font-family="Georgia, 'Times New Roman', serif">etl-sap-icrm</text>
 <text x="96" y="60" fill="#BFAE98" font-size="11">ETL &amp; data reconciliation</text>
 <text x="96" y="75" fill="#BFAE98" font-size="11">for SAP and iCRM+ inventory</text>
-<g font-size="10"><rect x="16" y="118" width="82" height="22" rx="11" fill="#1F2628" stroke="#9FC3C0" stroke-width="0.8"/><text x="57" y="133" text-anchor="middle" fill="#9FC3C0">Laravel 11</text><rect x="104.0" y="118" width="57" height="22" rx="11" fill="#2A252E" stroke="#D9BE94" stroke-width="0.8"/><text x="133" y="133" text-anchor="middle" fill="#D9BE94">Python</text></g>
+<g font-size="10"><rect x="16" y="118" width="82" height="22" rx="11" fill="#1F2628" stroke="#9FC3C0" stroke-width="0.8"/><text x="57" y="133" text-anchor="middle" fill="#9FC3C0">Laravel 11</text><rect x="104.0" y="118" width="57" height="22" rx="11" fill="#2A252E" stroke="#D9BE94" stroke-width="0.8"/><text x="133" y="133" text-anchor="middle" fill="#D9BE94">MySQL</text></g>
 <text x="320" y="140" text-anchor="end" fill="#D9BE94" font-size="11">View repo →</text>
 </svg>

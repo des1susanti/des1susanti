@@ -45,7 +45,7 @@
 <a href="https://github.com/des1susanti/robot-gestur"><img src="card-robot.svg" width="49%" alt="robot-gestur" /></a>
 
 <a href="https://github.com/des1susanti/mitologi-nusantara"><img src="card-mitologi.svg" width="49%" alt="mitologi-nusantara" /></a>
-<a href="https://github.com/des1susanti/etl-sap-icrm-supply-chain"><img src="card-etl.svg" width="49%" alt="etl-sap-icrm-supply-chain" /></a>
+<a href="https://github.com/des1susanti/rice-pest-yolov8"><img src="card-ricepest.svg" width="49%" alt="rice-pest-yolov8" /></a>
 
 <a href="https://github.com/des1susanti/portofolio-v2"><img src="card-portofolio.svg" width="49%" alt="portofolio-v2" /></a>
 <a href="https://github.com/des1susanti/life-design-quest"><img src="card-ldq.svg" width="49%" alt="life-design-quest" /></a>
