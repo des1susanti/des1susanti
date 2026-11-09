@@ -38,6 +38,9 @@
 
 ### ✦ Featured builds
 
+<sub>Recently updated projects · refreshed automatically</sub>
+
+<!-- FEATURED:START -->
 <a href="https://github.com/des1susanti/presensi-flutter"><img src="card-presensi.svg" width="49%" alt="presensi-flutter" /></a>
 <a href="https://github.com/des1susanti/robot-gestur"><img src="card-robot.svg" width="49%" alt="robot-gestur" /></a>
 
@@ -46,6 +49,7 @@
 
 <a href="https://github.com/des1susanti/portofolio-v2"><img src="card-portofolio.svg" width="49%" alt="portofolio-v2" /></a>
 <a href="https://github.com/des1susanti/life-design-quest"><img src="card-ldq.svg" width="49%" alt="life-design-quest" /></a>
+<!-- FEATURED:END -->
 
 </div>
 
