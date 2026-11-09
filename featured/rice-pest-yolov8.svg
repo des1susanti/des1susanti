@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 336 160" width="420" height="200" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
 <rect x="1" y="1" width="334" height="158" rx="12" fill="#16141A" stroke="#3B3441"/>
 <rect x="16" y="16" width="64" height="64" rx="10" fill="#221E26"/>
-<g fill="none" stroke="#D9BE94" stroke-width="1.3"><circle cx="34" cy="38" r="4"/><circle cx="34" cy="58" r="4"/><circle cx="62" cy="48" r="4"/><circle cx="48" cy="30" r="4"/><circle cx="48" cy="66" r="4"/><path d="M38 38 L58 48 M38 58 L58 48 M48 34 L48 62"/></g><circle cx="62" cy="48" r="4" fill="#D9BE94"><animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/></circle>
+<g fill="none" stroke="#9FC3C0" stroke-width="1.4"><path d="M48 24 C40 34 40 52 48 66"/><path d="M48 32 L42 28 M48 40 L41 38 M48 48 L41 48 M48 56 L42 58"/></g><g stroke="#E6CFA6" stroke-width="1.2" fill="none"><ellipse cx="54" cy="44" rx="5" ry="9"/><path d="M50 38 L45 34 M58 38 L63 34 M49 46 L44 48 M59 46 L64 48 M50 51 L46 55 M58 51 L62 55 M52 35 L50 30 M56 35 L58 30"/></g><rect x="38" y="25" width="32" height="40" rx="2" fill="none" stroke="#D9BE94" stroke-width="1.3" stroke-dasharray="4 3"><animate attributeName="stroke-dashoffset" values="0;14" dur="1.4s" repeatCount="indefinite"/></rect><rect x="38" y="19" width="26" height="7" rx="1.5" fill="#D9BE94"/><text x="40.5" y="24.6" fill="#16141A" font-size="5.2" font-weight="700">pest 0.84</text>
 <text x="96" y="40" fill="#F1E3CC" font-size="17" font-family="Georgia, 'Times New Roman', serif">rice-pest-yolov8</text>
-<text x="96" y="60" fill="#BFAE98" font-size="11">Rice pest detection (14 species,</text><text x="96" y="75" fill="#BFAE98" font-size="11">IP102) with YOLOv8n vs YOLOv8s, with…</text>
-<g font-size="10"></g>
+<text x="96" y="60" fill="#BFAE98" font-size="11">Detecting 14 rice pest species with</text><text x="96" y="75" fill="#BFAE98" font-size="11">YOLOv8n vs YOLOv8s</text>
+<g font-size="10"><rect x="16" y="118" width="57" height="22" rx="11" fill="#1F2628" stroke="#9FC3C0" stroke-width="0.8"/><text x="44" y="133" text-anchor="middle" fill="#9FC3C0">YOLOv8</text><rect x="79" y="118" width="63" height="22" rx="11" fill="#2A252E" stroke="#D9BE94" stroke-width="0.8"/><text x="110" y="133" text-anchor="middle" fill="#D9BE94">PyTorch</text></g>
 <text x="320" y="140" text-anchor="end" fill="#D9BE94" font-size="11">View repo →</text>
 </svg>
